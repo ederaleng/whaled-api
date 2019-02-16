@@ -1,0 +1,65 @@
+.appOperation{
+    margin:auto;
+    min-height: 100vh;
+    min-width: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkgray;
+}
+.operation{
+    text-align: center;
+    margin: 0 auto;
+    max-width: 480px;
+    width: 100%;
+}
+.sing_in{
+    width: 90%;
+    margin: 0px auto;
+}
+.icon_app{
+    border-top: 1px solid #e4e7ea;
+    border-radius: 10px 10px 0px 0px;
+    background-color: #fafbfc;
+    line-height: 2em;
+    border-bottom: 1px solid #e4e7ea;
+    padding: 10px 0px;
+}
+.body_Operation{
+    padding: 30px 20px;
+    width: 100%;
+    background-color: #fff;
+}
+.footer_Operation{
+    border-top: 1px solid #e4e7ea;
+    border-radius: 0 0 10px 10px;
+    background-color: #fafbfc;
+    line-height: 2em;
+    font-size: 1.2rem;
+}
+.buttoms_Forms{
+    font-family: Whitney,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    width: 90%;
+}
+.box_Op{
+    width: 100%;
+    overflow: auto;
+}
+.confirm_Operation{
+    margin: 10PX 20PX;
+    width: 90%;
+}
+.iconimage{
+    width: 60%;
+    height: 20%;
+}
+.border_Operation{
+    border-radius: 10px;
+    box-shadow: 0 1px 5px 0 #b9bcbec2;
+    text-align: center;
+    margin: 20px auto;
+    max-width: 500px;
+    width: 100%;
+}
