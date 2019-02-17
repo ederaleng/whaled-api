@@ -1,4 +1,5 @@
-Api tools for whaled-Explorer
+## tools for whales-Explorer
 
-status:dev
+Tool similar to steemconnect that allows people to make transferences in the blockchain of
 
+status: dev

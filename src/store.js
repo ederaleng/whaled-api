@@ -11,8 +11,10 @@ const initialState = {
     key:null,
     finish:{
         susses:null,
-        msg:null
-    }
+        msg:null,
+        trxid:null
+    },
+    ButtomSingin:false
 }
 
 export const store = createStore( reducer, initialState,

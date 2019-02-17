@@ -16,6 +16,8 @@ export const reducer = (state,action)=>{
             return { ...state, finish: action.value }
         case'msg':
             return { ...state, msg: action.value }
+        case'ButtomSingin':
+            return { ...state, ButtomSingin: action.value }
         default:
             return state
     }

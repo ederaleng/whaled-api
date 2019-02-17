@@ -6,4 +6,4 @@ export const updateOperation = value => ({ type:'operation', value });
 export const updateKey = value => ({ type:'key', value });
 export const updateFinish = value => ({ type:'finish', value });
 export const updateMsg = value => ({ type:'msg', value });
-
+export const updateButtomSingin = value => ({ type:'ButtomSingin', value });
